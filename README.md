@@ -1,4 +1,6 @@
-markdown
+
+
+````markdown
 # Sentiment Analysis using Hugging Face and Streamlit
 
 ## Overview
@@ -174,8 +176,7 @@ streamlit
 transformers
 torch
 huggingface_hub
-
-
+```
 
 ## Author
 
